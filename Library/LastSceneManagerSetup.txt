@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/WM2000/_Scenes/MainScreen.unity
+  isLoaded: 1
+  isActive: 1
